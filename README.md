@@ -8,7 +8,7 @@
 
 **Languages**: C, C++, Rust, Python  
 **Platforms**: ARM Cortex-M, RTOS, Bare-metal  
-**Tools**: Git, Docker, GDB, VS Code, Neovim, FreeRTOS
+**Tools**: Git, Docker, GDB, VS Code, Neovim, FreeRTOS  
 **Other**: I2C/SPI/UART, Interrupts, Power Optimization, Code Size Optimizations
 
 ## What I'm learning
