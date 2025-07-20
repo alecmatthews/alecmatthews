@@ -1,7 +1,6 @@
 ## Hi there, I'm Alec 👋
 
-🛠️ I'm Embedded Software Engineer @amazon Project Kuiper 🛰️.
-
+🛠️ I'm Embedded Software Engineer @Amazon Project Kuiper 🛰️.  
 🌲 I like building reliable, fast, and small systems.
 
 ## Tech stack
