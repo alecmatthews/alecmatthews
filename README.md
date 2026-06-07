@@ -1,14 +1,15 @@
 ## Hi there, I'm Alec 👋
 
 🛠️ I'm a Senior Software Enginner @Overwatch Imaging
+
 🌲 I like building reliable, fast, and small systems.
 
 ## Tech stack
 
-**Languages**: C, C++, Rust, Python  
-**Platforms**: Nvidia Jetson, Desktop
-**Tools**: Git, Docker, GDB, VS Code, Neovim, FreeRTOS  
-**Other**: I2C/SPI/UART, Interrupts, Power Optimization, Code Size Optimizations
+- **Languages**: C, C++, Rust, Python
+- **Platforms**: Nvidia Jetson, Desktop
+- **Tools**: Git, Docker, GDB, VS Code, Neovim, FreeRTOS  
+- **Other**: I2C/SPI/UART, Interrupts, Power Optimization, Code Size Optimizations
 
 ## 📫 How to reach me
 
